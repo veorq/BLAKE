@@ -47,12 +47,15 @@ Similar executables are provided for BLAKE-224, BLAKE-384, and
 BLAKE-512.
 
 
-License
--------
+Intellectual property
+---------------------
 
 The BLAKE reference code is released under [CC0
 license](https://creativecommons.org/publicdomain/zero/1.0/), a public
 domain-like licence.
+
+We aren't aware of any patents or patent applications relevant to BLAKE,
+and we aren't planning to apply for any.
 
 
 References
